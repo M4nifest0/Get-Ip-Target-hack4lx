@@ -56,7 +56,3 @@ cd Get-Ip-Target-hack4lx
 sudo bash Get-Ip-Target-hack4lx.sh
 ```
 
-### Telegram!
-Support the authors:
-
-<noscript><a href="https://t.me/hack4lx"><img alt="Link" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
