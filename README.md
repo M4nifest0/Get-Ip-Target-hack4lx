@@ -45,18 +45,18 @@ Get ip of target through nkrog link
 https://t.me/os20ir
 
 
-Get ip of target through nkrog link
+Get-Ip-Target-hack4lx of target through nkrog link
 
 ![gt](https://user-images.githubusercontent.com/34893261/41755435-c31971ae-75ad-11e8-9087-0aad4a28023f.png)
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/getip
-cd getip
-sudo bash getip.sh
+git clone https://github.com/Get-Ip-Target-hack4lx/getip
+cd Get-Ip-Target-hack4lx
+sudo bash Get-Ip-Target-hack4lx.sh
 ```
 
-### Donate!
+### Telegram!
 Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://t.me/hack4lx"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
