@@ -51,7 +51,7 @@ Get-Ip-Target-hack4lx of target through nkrog link
 
 ### Usage:
 ```
-git clone https://github.com/Get-Ip-Target-hack4lx/getip
+git clone https://github.com/Get-Ip-Target-hack4lx
 cd Get-Ip-Target-hack4lx
 sudo bash Get-Ip-Target-hack4lx.sh
 ```
